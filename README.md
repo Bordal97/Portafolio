@@ -1,4 +1,4 @@
-# Descriptive Analysis:
+# Exploratory data analysis:
 
 This folder contains Jupyter Notebooks for performing exploratory data analysis (EDA) and visualizations on various datasets. The data files used in these notebooks are located in the subfolder Data.
 
