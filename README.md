@@ -38,7 +38,7 @@ A fundamental understanding of data analysis concepts.
 Some background in machine learning concepts (optional, but beneficial).
 
 ## Getting Started:
-1. Ensure you have the Titanic_ML.ipynb file and the data folder containing the Titanic dataset (located within the same directory or a subdirectory).
+1. Ensure you have the [Titanic_ML.ipynb](https://github.com/Bordal97/Projects/blob/main/Titanic_ML.ipynb) file and the data folder containing the Titanic dataset (located within the same directory or a subdirectory).
 2. Open Titanic_ML.ipynb in a Jupyter Notebook environment.
 3. Run the code cells sequentially. Each cell performs a specific analysis or visualization step.
 4. Follow the explanations provided within the notebook to grasp the concepts and outcomes.
