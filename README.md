@@ -1,50 +1,78 @@
-# **Titanic_ML.ipynb**
+# Titanic_ML.ipynb
 
-This Jupyter Notebook delves into the fascinating Titanic disaster dataset, employing exploratory data analysis (EDA) techniques and insightful visualizations to uncover the factors that had a significant impact on passenger survival rates. Additionally, it ventures into the realm of machine learning by building and evaluating four different models to predict survival outcomes.
+Este Jupyter Notebook explora el famoso dataset del desastre del Titanic, aplicando técnicas de análisis exploratorio de datos (EDA) y visualizaciones para identificar los factores que influyeron en la supervivencia de los pasajeros. Además, se implementan y comparan varios modelos de machine learning para predecir quiénes tenían más probabilidades de sobrevivir.
 
-## Key Features:
+## 📌 Características principales
+### 🔍 Análisis Exploratorio de Datos (EDA)
 
-### Exploratory Data Analysis (EDA):   
-- Acquaints you with the structure and content of the Titanic dataset.
-- Identifies missing values and implements appropriate cleaning strategies.
-- Analyzes the distribution of key variables (e.g., age, class, gender) across different survival groups.
+  - Exploración de la estructura y contenido del dataset.
 
-### Data Visualization:  
-- Leverages interactive charts and graphs to effectively represent the findings from the EDA, offering a clear visual understanding of the data.
-- Employs tools like bar plots and pie plots to reveal patterns and trends.
+  - Identificación y tratamiento de valores faltantes.
 
-### Machine Learning (ML) Modeling:
-- Guides you through the creation and training of four distinct machine learning models to predict passenger survival based on various features.
-- Explores different model types (e.g., Logistic Regression, Decision Tree, KMeans, Gaussian Mixture,) to identify the most effective approach for this dataset.
-- Evaluates the performance of each model using relevant metrics(Accuracy) to gain insights into their strengths and weaknesses.
+  - Análisis de variables clave como edad, clase y género en relación con la supervivencia.
 
+### 📊 Visualización de Datos
 
-## Learning Outcomes:
+   - Uso de gráficos interactivos y descriptivos (barras, pastel, etc.) para identificar patrones.
 
-- Gain a comprehensive understanding of the factors that influenced passenger survival rates on the Titanic.
-- Develop practical skills in EDA, data visualization, and machine learning model building.
-- Evaluate the effectiveness of different machine learning algorithms for a specific prediction task.
+   - Representación clara de los hallazgos de EDA.
 
-## Target Audience:
+### 🤖 Modelado de Machine Learning
 
-Data analysts and scientists seeking to deepen their understanding of the Titanic dataset through EDA and visualization.
-Aspiring machine learning practitioners interested in exploring various model types and their application to real-world problems.
-Anyone with a curiosity about the Titanic disaster and its impact on passengers, utilizing data analysis and machine learning techniques.
+   - Entrenamiento de cuatro modelos: Regresión Logística, Árbol de Decisión, KMeans y Gaussian Mixture.
 
-## Prerequisites:
+   - Comparación de desempeño utilizando métricas como Accuracy.
 
-Basic familiarity with Python programming.
-A fundamental understanding of data analysis concepts.
-Some background in machine learning concepts (optional, but beneficial).
+   - Análisis de fortalezas y debilidades de cada modelo.
 
-## Getting Started:
-1. Ensure you have the [Titanic_ML.ipynb](https://github.com/Bordal97/Projects/blob/main/Titanic_ML.ipynb) file and the data folder containing the Titanic dataset (located within the same directory or a subdirectory).
-2. Open Titanic_ML.ipynb in a Jupyter Notebook environment.
-3. Run the code cells sequentially. Each cell performs a specific analysis or visualization step.
-4. Follow the explanations provided within the notebook to grasp the concepts and outcomes.
-5. Feel free to experiment! Modify the code and explore different visualizations or machine learning models to tailor the analysis to your specific interests.
+### 🎯 Objetivos de Aprendizaje
 
-## Additional Notes:
+   - Comprender los factores que influyeron en la supervivencia en el Titanic.
 
-The specific libraries used within the notebook (e.g., pandas, matplotlib, scikit-learn) are likely to be imported at the beginning of the notebook.
-I hope this README effectively communicates the purpose, functionalities, and intended audience for your outstanding Titanic_ML.ipynb notebook!
+   - Desarrollar habilidades prácticas en análisis de datos, visualización y machine learning.
+
+   - Evaluar distintos algoritmos de ML en un problema de clasificación.
+
+### 👥 Público Objetivo
+
+   - Analistas y científicos de datos interesados en EDA y visualización.
+
+   - Personas que inician en machine learning y desean experimentar con modelos reales.
+
+   - Curiosos por el caso del Titanic y su análisis desde una perspectiva de datos.
+
+### 🛠️ Requisitos
+
+   - Conocimientos básicos de Python.
+
+   - Familiaridad con conceptos de análisis de datos.
+
+   -  Noción básica de algoritmos de machine learning (deseable, no obligatorio).
+
+### 🚀 Cómo comenzar
+
+  -  Asegúrate de tener el archivo [Titanic_ML.ipynb](https://github.com/Bordal97/Portafolio/blob/main/Titanic_ML.ipynb) y la carpeta con el dataset en el mismo directorio o subdirectorio.
+
+  -  Abre el notebook en un entorno Jupyter.
+
+  - Ejecuta las celdas en orden para seguir el análisis paso a paso.
+
+  -  Lee los comentarios y explicaciones para entender cada proceso.
+
+  - ¡Experimenta! Modifica visualizaciones o modelos para explorar nuevas ideas.
+
+### 📦 Librerías utilizadas
+
+  - pandas
+
+  - numpy
+
+  - matplotlib
+
+  - seaborn
+
+  - scikit-learn
+
+### 📌 Notas adicionales
+
+Este proyecto forma parte de mi portafolio como ejercicio práctico de análisis y modelado predictivo. Es totalmente abierto a mejoras y sugerencias.
